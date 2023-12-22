@@ -1,8 +1,6 @@
 <img src="https://github.com/Chalesgo/Chalesgo/blob/main/kenobi%20hello%20there.png">
 
-<h1 align="center" > Hello there 👋</h1>
-
-<h1 align="center" > I'm Charles Go</h1>
+<h1 align="center" > Hello there, I'm Charles Go</h1>
 
 - 🌱 I’m currently learning HTML, CSS, and JS
 
