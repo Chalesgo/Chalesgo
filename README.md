@@ -1,4 +1,4 @@
-<img src="https://github.com/Chalesgo/Chalesgo/blob/main/kenobi%20hello%20there.png">
+<img src="https://github.com/Chalesgo/Chalesgo/blob/main/star-wars-hello-there.gif">
 
 <h1 align="center" > Hello there, I'm Charles Go</h1>
 
