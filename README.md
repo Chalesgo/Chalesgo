@@ -1,4 +1,6 @@
-<h1 align="center" > Hi there 👋</h1>
+[<img src="https://github.com/Chalesgo/Chalesgo/blob/main/kenobi%20hello%20there.png">]
+
+<h1 align="center" > Hello there 👋</h1>
 
 - 🌱 I’m currently learning HTML, CSS, and JS
 
