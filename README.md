@@ -12,4 +12,10 @@
 
 - 📫 How to reach me: charleskristoffer.go@gmail.com
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Yoda's original name was Buffy
+
+## Git Cheat sheet
+
+### 1. Git 
+
+- 
