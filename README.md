@@ -2,7 +2,7 @@
 
 <h1 align="center" > Hello there 👋</h1>
 
-<h1 align="center" > I'm Charle Go</h1>
+<h1 align="center" > I'm Charles Go</h1>
 
 - 🌱 I’m currently learning HTML, CSS, and JS
 
