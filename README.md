@@ -6,13 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chalesgo&label=Profile%20views&color=blueviolet&style=flat" alt="chalesgo" /> </p>
 
-- 🌱 I’m currently learning HTML, CSS, and JS
+- 🌱 I’m currently learning: <h3 align="left"> ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![HTML](https://img.shields,io/badge/HTML)
+- 🤔 I’m looking for help with <h3 align="left">[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
-- 🤔 I’m looking for help with JS
-
-- 📫 How to reach me: charleskristoffer.go@gmail.com
+- 📫 How to reach me: <h3 align="left"> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:charleskristoffer.go@gmail.com)](mailto:charleskristoffer.go@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Chalesgo)](mailto:https://github.com/Chalesgo)
 
 - ⚡ Fun fact: Yoda's original name was Buffy
 
