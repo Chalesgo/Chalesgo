@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Chalesgo/Chalesgo/blob/main/star-wars-hello-there.gif" align="center">
+    <img src="https://github.com/Chalesgo/Chalesgo/blob/main/resources/star-wars-hello-there.gif" align="center">
 </p>
 
 <h1 align="center" > Hello there, I'm Charles Go</h1>
