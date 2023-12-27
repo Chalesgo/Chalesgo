@@ -20,28 +20,35 @@
 
 ### 1. Git init
 
-- initialize an existing directory as a Git repository
+- When to use: This command is used to initialize a new Git repository in an existing directory.
+- Example: git init
 
 ### 2. Git status 
 
-- show modified files in working directory, staged for next commit
+- When to use: It shows the status of changes as untracked, modified, or staged in your working directory.
+- Example: git status
 
 ### 3. Git branch
 
-- list branches, a* will appear next to the currently active branch 
+- When to use: Lists existing branches in the repository, and indicates the currently active branch with an asterisk (*).
+- Example: git branch
 
 ### 4. Git log
 
-- shows the commit history for currently active branch
-
+- When to use: Displays the commit history for the currently active branch.
+- Example: git log
+  
 ### 5. Git stash 
 
-- save modified and staged changes
+- When to use: Saves your local changes temporarily so you can switch to another branch without committing.
+- Example: git stash
 
 ### 6. Git diff
 
-- diff of what is staged but not yet committed.
+- When to use: Shows the differences between the working directory and the staging area (what is staged but not committed).
+- Example: git diff
 
 ### 7. Git stash drop
 
-- discard the changes from top of the stash stack
+- When to use: Discards the changes from the top of the stash stack.
+- Example: git stash drop
