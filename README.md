@@ -37,3 +37,11 @@
 ### 5. Git stash 
 
 - save modified and staged changes
+
+### 6. Git diff
+
+- diff of what is staged but not yet committed.
+
+### 7. Git stash drop
+
+- discard the changes from top of the stash stack
